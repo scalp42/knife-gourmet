@@ -1,0 +1,5 @@
+module Knife
+  module Gourmet
+    VERSION = "0.0.1"
+  end
+end
